@@ -1,5 +1,12 @@
 # 代理补充列表
 
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+# DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-KEYWORD,pikpak
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
