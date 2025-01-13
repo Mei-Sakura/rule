@@ -1,5 +1,5 @@
 #MyList
-DOMAIN-SUFFIX,pilipili.club
+# DOMAIN-SUFFIX,pilipili.club
 # DOMAIN-SUFFIX,anycast.test404.net
 
 IP-CIDR,83.147.61.152/32,no-resolve
