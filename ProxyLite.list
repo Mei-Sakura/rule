@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,pikpak
 # IP-CIDR,223.6.6.6/32,no-resolve
 # DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,fpfast.top
+DOMAIN-SUFFIX,post.cn2gias.uk
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
